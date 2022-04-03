@@ -110,10 +110,12 @@ export default {
 }
 .todo-list_main ul > li img {
     height: 30px;
+    cursor:pointer;
 }
 .todo-list_main ul > li span {
     margin-left: 10px;
     word-break: break-all;
+    cursor:pointer;
 }
 .todo-list_main ul > li div {
     display: flex;
